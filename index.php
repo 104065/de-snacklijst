@@ -8,9 +8,9 @@
 <h1>Snacklijst</h1>
 <ul>
     <li>Patat</li>
-    <li>Snack van Mayo: frikandel</li>
+    <li>Snack van Mayo: frikandel prijs: 2.90</li>
     <li>Kroket</li>
-    <li>Snack van Ketchup: gehakt bal</li>
+    <li>Snack van Ketchup: gehakt bal prijs: 3,40</li>
     <li>Bitterbal</li>
 </ul>
 <p>Laatst bijgewerkt: <?php echo date('d-m-Y'); ?></p>
