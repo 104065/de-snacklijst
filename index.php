@@ -8,9 +8,9 @@
 <h1>Snacklijst</h1>
 <ul>
     <li>Patat</li>
-    <li>Snack van Mayo: ...</li>
+    <li>Snack van Mayo: Frikandel </li>
     <li>Kroket</li>
-    <li>Snack van Ketchup: ...</li>
+    <li>Snack van Ketchup: blrhblrh </li>
     <li>Bitterbal</li>
 </ul>
 <p>Laatst bijgewerkt: <?php echo date('d-m-Y'); ?></p>
